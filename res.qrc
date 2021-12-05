@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/reload.png</file>
+        <file>icon/image_l.png</file>
+        <file>icon/movie_l.png</file>
+        <file>icon/music_l.png</file>
+    </qresource>
+</RCC>
